@@ -7,8 +7,7 @@ You can send a notification to your application using the "Postman" application.
 1. Open Postman application.
 2. Write adress https://fcm.googleapis.com/fcm/send 
 3. Chose POST method
-  https://ibb.co/RTXKPCZ
-  https://ibb.co/WKSq2Tt
+  https://ibb.co/RTXKPCZ ,   https://ibb.co/WKSq2Tt
 
 
 Goog Luck !
